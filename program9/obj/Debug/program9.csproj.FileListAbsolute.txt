@@ -16,3 +16,12 @@ D:\Visual Studio 2013\visual programming 1\4-13-17\program9\program9\obj\Debug\p
 D:\Visual Studio 2013\visual programming 1\4-13-17\program9\program9\obj\Debug\program9.automotiveShop.resources
 D:\Visual Studio 2013\visual programming 1\4-13-17\program9\program9\obj\Debug\program9.Properties.Resources.resources
 D:\Visual Studio 2013\visual programming 1\4-13-17\program9\program9\obj\Debug\program9.csproj.GenerateResource.Cache
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\bin\Debug\program9.exe.config
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.exe
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.pdb
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\bin\Debug\program9.exe
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\bin\Debug\program9.pdb
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.csprojResolveAssemblyReference.cache
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.automotiveShop.resources
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.Properties.Resources.resources
+C:\Users\En\Desktop\repos\Personal\auto-repair-shop\program9\obj\Debug\program9.csproj.GenerateResource.Cache

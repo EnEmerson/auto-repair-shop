@@ -147,7 +147,7 @@ namespace program9
             }
             catch
             {
-                MessageBox.Show("Numbers only, please.");
+                MessageBox.Show("Input Error.");
                 clearVariables();
                 partsInput.Text = "";
                 laborInput.Text = "";
@@ -172,7 +172,6 @@ namespace program9
 
         private void automotiveShop_Load(object sender, EventArgs e)
         {
-            //regOil.Checked = false;
             noWashLabel.Visible = false;
         }
 
